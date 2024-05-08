@@ -1,0 +1,7 @@
+.nav-bar{
+    display: flex;
+    gap: 1rem;
+    font-size: 30px;
+    padding: 10px;
+    background-color: #F8D082;
+}
